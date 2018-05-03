@@ -1,0 +1,11 @@
+*.iml
+target
+.idea
+base.xml
+.classpath
+.project
+/bin/
+*.swp
+.settings
+.cache*
+*.log
